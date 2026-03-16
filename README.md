@@ -1,2 +1,6 @@
-# dataset-quality-checker
-A Python tool that analyzes application log files and counts INFO, WARNING, and ERROR messages.  It helps developers quickly understand system issues by summarizing log data. 
+## Features
+
+- Reads application log files
+- Identifies INFO, WARNING, and ERROR messages
+- Counts occurrences of each log level
+- Generates a simple log analysis summary
